@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋</h1>
 
 <h4>
- ✋ I'm <u>Mridul</u>
+ ✋ I'm <u>Akash</u>
 <br>
 🔭 I’m a Member of Waycup.
 <br>
